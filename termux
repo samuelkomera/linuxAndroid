@@ -1,3 +1,4 @@
 pkg install openssh
 pkg install bash
 whoami - u0_a52
+passwd - SopTen20
