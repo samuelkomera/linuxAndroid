@@ -9,5 +9,7 @@ $ which postgres
 /data/data/com.termux/files/usr/bin/postgres
 $ postgres -V
 postgres (PostgreSQL) 11.3
-$ 
+
+Launch Chrome :-
+am start --user 0 -n com.android.chrome/com.google.android.apps.chrome.Main
 
